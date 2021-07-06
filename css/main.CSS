@@ -1,0 +1,17 @@
+#ribbon{
+
+     background-color: rgba(201, 63, 5, 0.04);
+     background-image:repeating-linear-gradient(45deg, transparent, transparent 2px, rgba(10, 11, 14, 0.87) 25px,rgba(10, 11, 14, 0.87) 40px );
+
+}
+#tech{
+     background-color: rgbargba(10, 11, 14, 0.86);
+     position: relative;
+     margin-top:-20px;
+     z-index: 10;
+     box-shadow:  10px rg0ba(0, 0, 0, 0.5);
+
+}
+#text{
+	color: white;
+}
